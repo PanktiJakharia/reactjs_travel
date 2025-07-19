@@ -1,4 +1,4 @@
-# 🧳 Tour Planner App
+# 🧳 Travel Webiste
 
 A simple and responsive React application that displays a list of tourist destinations across India. Users can explore destinations, view prices and information, and remove tours they're not interested in. If all tours are removed, a refresh option is provided to reload the tour list.
 
